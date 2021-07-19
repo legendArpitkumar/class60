@@ -15,4 +15,12 @@ div {
 .section-style {
     margin-right: 25px;
     margin-left: 25px;
+    background-color: white;
+}
+
+img {
+    height: 300px;
+    width: 300px;
+    background-color: white;
+
 }
